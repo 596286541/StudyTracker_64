@@ -7,7 +7,8 @@ A simple command-line application to help students track their study time and ge
 *   **Add Record**: Log your study sessions with subject, duration, and date.
 *   **View Records**: Display all your past study records in a list.
 *   **Generate Report**: Get a simple summary of your total study time and time per subject.
-* **Delete Record**: Remove existing study records.
+*   **Update Record**: Modify existing study records.
+*   **Delete Record**: Remove existing study records.
 ## Installation
 
 1.  Clone the repository:
