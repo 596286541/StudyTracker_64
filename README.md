@@ -12,11 +12,11 @@ A simple command-line application to help students track their study time and ge
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/你的用户名/StudyTracker_你的学号后两位.git
+    git clone https://github.com/你的用户名/StudyTracker_64.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd StudyTracker_你的学号后两位
+    cd StudyTracker_64
     ```
 
 ## Usage
