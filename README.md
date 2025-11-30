@@ -1,4 +1,4 @@
-# StudyTracker_你的学号后两位
+# StudyTracker_64
 
 A simple command-line application to help students track their study time and generate progress reports.
 
